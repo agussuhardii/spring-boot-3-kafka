@@ -1,4 +1,4 @@
-### Simple kafka
+### sample request
 
 <code>curl --location 'http://localhost:8080/api/kafka/send' \
 --header 'Content-Type: application/json' \
